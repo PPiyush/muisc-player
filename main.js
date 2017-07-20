@@ -222,57 +222,57 @@
 
 <!----------------------------------------------arrayof objects-------------------------------------------------------------------->
         var songs = [{
-        'name': 'Badri Ki Dulhania',
-        'artist': 'Neha Kakkar, Monali Thakur, Ikka Singh, Dev Negi',
-        'album': 'Badrinath ki Dulhania',
+        'name': 'mp3-1',
+        'artist': 'Atul kumar',
+        'album': 'Pahadi-1',
         'duration': '2:56',
         'fileName': 'song1.mp3',
 		'image': 'song1.jpg'
     },
     {
-        'name': 'Humma Song',
-        'artist': 'Badshah, Jubin Nautiyal, Shashaa Tirupati',
-        'album': 'Ok Jaanu',
+        'name': 'mp3-2',
+        'artist': 'piyush gupta',
+        'album': 'Pahadi-2',
         'duration': '3:15',
         'fileName': 'song2.mp3',
 		'image' : 'song2.jpg'
     },
 	{
-        'name': 'lean on',
+        'name': 'mp3-3',
         'artist': 'unknown',
-        'album': 'The ashian collection',
+        'album': 'Pahadi-3',
         'duration': '2:56',
         'fileName': 'song3.mp3',
 		'image' : 'song3.jpg'
     },
 	{
-        'name': 'Mai tera boyfriend',
-        'artist': 'Arijit Singh, neha kakkar',
-        'album': 'mai tera boyfriend',
+        'name': 'mp3-4',
+        'artist': 'sagan',
+        'album': 'Pahadi-4',
         'duration': '3:08',
         'fileName': 'song4.mp3',
 		'image' : 'song4.jpg'
     },
 	{
-        'name': 'mercy',
-        'artist': 'Badshah',
-        'album': 'mercy',
+        'name': 'mp3-5',
+        'artist': 'shubham sharma',
+        'album': 'pahadi-5',
         'duration': '2:42',
         'fileName': 'song5.mp3',
 		'image' : 'song5.jpg'
 	},
     {
-        'name': 'Nashe Si Chadh Gayi',
-        'artist': 'Arijit Singh',
-        'album': 'Befikre',
+        'name': 'mp3-6',
+        'artist': 'haseena',
+        'album': 'pahadi-6',
         'duration': '2:34',
         'fileName': 'song6.mp3',
 		'image' : 'song6.jpg'
     },
     {
-        'name': 'The Breakup Song',
-        'artist': 'Nakash Aziz, Arijit Singh, Badshah, Jonita Gandhi',
-        'album': 'Ae Dil Hai Mushkil',
+        'name': 'mp3-7',
+        'artist': 'kuldeep sharma',
+        'album': 'pahadi-7',
         'duration': '2:29',
          'fileName': 'song7.mp3',
 		 'image' : 'song7.jpg'

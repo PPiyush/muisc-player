@@ -31,7 +31,7 @@ h1 {
     width: 100%;
     display: flex;
     flex-direction: column;
-	background:url("images/welcome pic.jpg");
+	background:url("http://melodrive.com/blog/wp-content/uploads/2017/02/score.jpg");
 	background-size:cover;
     justify-content: center;
     align-items: center;
@@ -43,7 +43,8 @@ h1 {
     display: flex;
     flex-direction: column;
     color: white;
-	background:url("images/apple-headphones-wallpaper-3.jpg");
+	background:url("http://wallpapercave.com/wp/I7ma7sY.png");
+	background-size:cover;
    /* background-color: #1f1f1f;*/
 }
 
@@ -52,7 +53,8 @@ h1 {
     background-color: #282828;
     padding: 1rem;
     color: #FFF;
-	background:url("images/apple-headphones-wallpaper-3.jpg");
+	background:url("http://www.drodd.com/images14/black18.png");
+	background-size:cover;
 }
 .button{
 	color:blue;
@@ -63,7 +65,9 @@ h1 {
 
 .main .content {
     flex:1;
-	background:url("images/apple-headphones-wallpaper-3.jpg");
+
+	background-size:cover;
+	
    /* background-color: #1f1f1f;*/
 }
 
@@ -71,7 +75,8 @@ h1 {
 .main footer {
     height: 80px;
    
-	background:url("images/apple-headphones-wallpaper-3.jpg");
+	
+	background-size:cover;
     padding-top: 1rem;
 }
 
